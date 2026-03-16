@@ -84,7 +84,7 @@ export default function Contact() {
             </form>
 
             <p className="text-muted small mt-3">
-              Or email directly:
+              Or email direct:
               <strong> rkopenmail@gmail.com</strong>
             </p>
           </div>
